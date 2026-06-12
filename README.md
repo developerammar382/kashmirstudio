@@ -20,6 +20,8 @@
 
 Kashmir Studio is a modern, full-stack wedding photography and videography platform built with cutting-edge web technologies. The project features a stunning frontend with 3D elements, smooth animations, and a professional backend API for managing bookings and content.
 
+**Built by Ammar for Kashmir Studio client.**
+
 ### ✨ Key Features
 
 - **Cinematic Portfolio Showcase** - Beautiful gallery with GSAP animations and smooth scrolling
@@ -70,11 +72,7 @@ pnpm install
 #### Development Server
 
 ```bash
-# From project root
 pnpm run dev
-
-# Or directly
-pnpm --filter @workspace/kashmir-studio run dev
 ```
 
 The website will be available at `http://localhost:8080` (or as configured by PORT environment variable).
@@ -82,21 +80,13 @@ The website will be available at `http://localhost:8080` (or as configured by PO
 #### Build for Production
 
 ```bash
-# From project root
 pnpm run build
-
-# Or directly
-pnpm --filter @workspace/kashmir-studio run build
 ```
 
 #### Preview Production Build
 
 ```bash
-# From project root
 pnpm run serve
-
-# Or directly
-pnpm --filter @workspace/kashmir-studio run serve
 ```
 
 ---
@@ -145,7 +135,7 @@ pnpm run typecheck
 
 ## 📦 Environment Variables
 
-### Environment Variables
+### Environment Variablehe proje oo
 
 Create a `.env` file in `artifacts/kashmir-studio/`:
 
@@ -201,7 +191,7 @@ UI components are built using Radix UI primitives and styled with TailwindCSS. C
 
 ---
 
-## 📄 License
+## 📄 Licenseoen soucavalbeunde te MITLicn
 
 This project is private and proprietary. All rights reserved.
 
@@ -303,19 +293,8 @@ curl -fsSL https://get.pnpm.io/install.sh | sh -
 
 <div align="center">
 
-**Built with ❤️ by Kashmir Studio**
+**Built with ❤️ by Ammar for Kashmir Studio**
 
-© 2024 Kashmir Studio. All rights reserved.
-
-</div>
-- [pnpm Documentation](https://pnpm.io)
-
----
-
-<div align="center">
-
-**Built with ❤️ by Kashmir Studio**
-
-© 2024 Kashmir Studio. All rights reserved.
+© 2026 Kashmir Studio. All rights reserved.
 
 </div>
